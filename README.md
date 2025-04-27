@@ -1,4 +1,4 @@
-# Adaptive Learning Attention Network for Underwater Image Enhancement 
+# Adaptive Learning Attention Network for Underwater Image Enhancement (LANet)
 
 The *official* repository for  [Adaptive Learning Attention Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/abstract/document/9729501).
 
