@@ -1,4 +1,8 @@
 # Adaptive Learning Attention Network for Underwater Image Enhancement 
+
+The *official* repository for  [Adaptive Learning Attention Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/abstract/document/9729501).
+
+# Introduction
 ```
 Our work proposes an “Adaptive learning attention network for underwater image enhancement” (LANet) to solve the problem of color casts and low illumination in underwater images.
 ```
