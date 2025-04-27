@@ -1,4 +1,4 @@
-# LANet
+# Adaptive Learning Attention Network for Underwater Image Enhancement 
 ```
 Our work proposes an “Adaptive learning attention network for underwater image enhancement” (LANet) to solve the problem of color casts and low illumination in underwater images.
 ```
